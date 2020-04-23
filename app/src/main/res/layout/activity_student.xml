@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".StudentActivity">
+
+    <Button
+        android:id="@+id/button_see"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="See Updates"
+        android:layout_marginTop="50dp"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="98dp" />
+
+    <Button
+        android:id="@+id/button_corp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="See Corporate Linkages"
+        android:layout_marginTop="50dp"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="235dp" />
+
+    <Button
+        android:id="@+id/button_ask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ask a doubt"
+        android:layout_marginTop="50dp"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="353dp" />
+</LinearLayout>

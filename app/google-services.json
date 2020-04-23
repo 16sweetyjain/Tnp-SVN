@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304988999217",
+    "firebase_url": "https://tnp-svn-a2f9f.firebaseio.com",
+    "project_id": "tnp-svn-a2f9f",
+    "storage_bucket": "tnp-svn-a2f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304988999217:android:5126cd57a0d7cde9cd0f10",
+        "android_client_info": {
+          "package_name": "com.example.tnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304988999217-maf9hkh3lubldksinfmjtv9buu1fr1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuITsthN0H2yWHTvZ5UE2xMnwcqG77vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304988999217-maf9hkh3lubldksinfmjtv9buu1fr1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
